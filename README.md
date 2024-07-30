@@ -1,4 +1,4 @@
-#Netflix Clone
+# Netflix Clone
 
 This project is a Netflix clone built using HTML and CSS, designed to mimic the look and feel of the Netflix India website. The main features include:
 
