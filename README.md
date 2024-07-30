@@ -1,3 +1,5 @@
+##Netflix Clone
+
 This project is a Netflix clone built using HTML and CSS, designed to mimic the look and feel of the Netflix India website. The main features include:
 
 Navigation Bar: A top navigation bar with the Netflix logo, language selection, and sign-in button.
